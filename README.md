@@ -1,13 +1,13 @@
-# PROJECT NAME
+# Project Name
 Diplom_1
 
-# TECHNOLOGIES
+# Technologies
 Java 11, maven 3.8.1, JUnit 4.13.2, mockito 3.12.4
 
-# CLEAN UP AND RUN TESTS
+# Clean up and run tests
 `mvn clean test`
 
-# PROJECT VERIFICATION AND COVERAGE REPORT
+# Project verification and coverage report
 `mvn verify`
 
 
